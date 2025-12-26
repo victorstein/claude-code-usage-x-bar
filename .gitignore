@@ -1,2 +1,9 @@
-*.jsom
+# xbar plugin variable files (contain secrets)
+*.vars.json
 *.json
+
+# macOS
+.DS_Store
+
+# Deno cache
+.deno/
