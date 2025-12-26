@@ -8,6 +8,7 @@
 //  Variables
 //  <xbar.var>string(SESSION_KEY=""): Claude session key from cookies (sessionKey)</xbar.var>
 //  <xbar.var>string(ORG_ID=""): Claude organization ID</xbar.var>
+//  <xbar.var>string(CHROME_PROFILE="Default"): Chrome profile name for token extraction</xbar.var>
 
 import { xbar, separator } from "https://deno.land/x/xbar@v2.1.0/mod.ts";
 
